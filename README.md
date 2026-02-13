@@ -1,3 +1,6 @@
+## About 
+This repository is the organization's official roadmap, which contains the complete lineage of each topic, in other words, a path to help you find the right direction. Of course, if you are already experienced, you can simply search for the exact content and see it; in any case, the roadmap is divided into levels and categories, each corresponding to the correct lineage.
+
 ## 📌 Table of Contents
 
 - [Learning Roadmap](#learning-roadmap)

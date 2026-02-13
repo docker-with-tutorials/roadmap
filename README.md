@@ -22,6 +22,9 @@ This level focuses on core Docker concepts. It establishes the mental model requ
 
 ### Repositories
 
+- **[docker-image-basics](https://github.com/docker-with-tutorials/docker-images-basics)**
+  Explains what a Docker image really is, how layers work, and how images are stored and referenced. 
+
 - **[docker-file-basics](https://github.com/docker-with-tutorials/docker-file-basics)**  
   Introduces the essential Dockerfile instructions (`FROM`, `WORKDIR`, `COPY`, `RUN`, `CMD`) and explains how images are built layer by layer.
 

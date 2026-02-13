@@ -1,3 +1,9 @@
+<p align="center"><strong>Built roadmap by developers, for developers.</strong></p>
+
+<p align="center">
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/fa5f4438-9809-4045-b80d-6c3bb3ebf070" />
+</p>
+
 ## About 
 This repository is the organization's official roadmap, which contains the complete lineage of each topic, in other words, a path to help you find the right direction. Of course, if you are already experienced, you can simply search for the exact content and see it; in any case, the roadmap is divided into levels and categories, each corresponding to the correct lineage.
 

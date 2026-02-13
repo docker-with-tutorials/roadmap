@@ -1,3 +1,10 @@
+## 📌 Table of Contents
+
+- [Learning Roadmap](#learning-roadmap)
+- [Level 1 — Fundamentals](#level-1--fundamentals)
+  - [Repositories](#repositories)
+
+
 ## Learning Roadmap
 
 This roadmap defines the structured learning path of the Docker With Tutorials organization.
@@ -8,14 +15,6 @@ The objective is clarity and progression.
 
 Every repository focuses on a single concept and is intentionally minimal. The roadmap connects them into a coherent journey.
 As new repositories are created, they will be added to the appropriate level.
-
-## 📌 Table of Contents
-
-- [Learning Roadmap](#learning-roadmap)
-- [Level 1 — Fundamentals](#level-1--fundamentals)
-  - [Repositories](#repositories)
-
----
 
 ## Level 1 — Fundamentals
 
